@@ -1,0 +1,19 @@
+BlackBerry Workd: appworld://
+Browser: http:// or https:// or ftp://
+Camera: camera://
+Calendar: calendar://
+Contacts: contacts://
+Device Info (escreen): escreen://
+File Manager: bbfiles://
+Help: help://
+Hub: pim:application/vnd.blackberry.hub:1
+Maps: maps://
+Music: music://
+Phone: tel:
+Pictures: photos://
+Picture Editor: photoeditor:// (not available yet)
+Remember: remember://notebookentry
+Settings: settings://
+Setup: setup://
+Text Messages (Hub): pim:application/vnd.blackberry.hub:23
+Videos: videos://

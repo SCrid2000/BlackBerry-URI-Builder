@@ -1,0 +1,31 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: SCrApps.org
+
+Package-Type: application
+Package-Author: SCrApps
+Package-Name: scrapps.bbworld
+Package-Version: 0.1.0.0
+Package-Architecture: armle-v7
+Package-Author-Certificate-Hash: UdEY9EEvFXDBudWMu7lHl0izehwGW9_rxUrcLnHkEWoT5fEgqqzwOZBmHclEwXFH6nx-46coNRdFlcaLBrKNWg
+Package-Author-Id: gYAAgGuzkHnA9Jvzs7yRPhqGvvw
+Package-Id: gYABgBC-XHh8BtiiJdDHHTnmNcA
+Package-Version-Id: gYACgJ_9eJNruMoun_Veicz7-8s
+
+Application-Name: BlackBerry World
+Application-Description: SCrApps BlackBerry World Launcher
+Application-Version: 0.1.0.0
+Application-Category: core.all
+Application-Requires-System: Tablet OS/1.0.0.0
+Application-Development-Mode: false
+Application-Id: gYADgOhGtoy24lATt1wJE7Pq4Vc
+Application-Version-Id: gYAEgAzqVwc-GwadaR713nRTzp4
+
+Entry-Point-Name: BlackBerry World
+Entry-Point: appworld://
+Entry-Point-Type: Qnx/Uri
+Entry-Point-Icon: icon.png
+Entry-Point-Orientation: auto
+
+Archive-Asset-Name: icon.png
+Archive-Asset-SHA-512-Digest: sGVfIenOLTcKE9VFbPOyj2NcQrsAmekRQ6VREK1Bpt4L7IFU_Q8m1wz05Cw_z9EOI5Gh_kygTSp6gqyAAUPI5w
+

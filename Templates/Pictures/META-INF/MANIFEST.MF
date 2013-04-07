@@ -1,0 +1,31 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: SCrApps.org
+
+Package-Type: application
+Package-Author: SCrApps
+Package-Name: scrapps.pictures
+Package-Version: 0.1.0.1
+Package-Architecture: armle-v7
+Package-Author-Certificate-Hash: UdEY9EEvFXDBudWMu7lHl0izehwGW9_rxUrcLnHkEWoT5fEgqqzwOZBmHclEwXFH6nx-46coNRdFlcaLBrKNWg
+Package-Author-Id: gYAAgGuzkHnA9Jvzs7yRPhqGvvw
+Package-Id: gYABgNu5YBgJBS6XCTlGyUQxaKI
+Package-Version-Id: gYACgOKAUCC9ovmI0xJb-EDsydU
+
+Application-Name: Pictures
+Application-Description: SCrApps Pictures Launcher
+Application-Version: 0.1.0.1
+Application-Category: core.all
+Application-Requires-System: Tablet OS/1.0.0.0
+Application-Development-Mode: false
+Application-Id: gYADgPTHE0kHpOSpHclMD5B_JzE
+Application-Version-Id: gYAEgAqekNE5eIIh3_uTjdSWzvo
+
+Entry-Point-Name: Pictures
+Entry-Point: photos://
+Entry-Point-Type: Qnx/Uri
+Entry-Point-Icon: icon.png
+Entry-Point-Orientation: auto
+
+Archive-Asset-Name: icon.png
+Archive-Asset-SHA-512-Digest: 0DRDRQJ_7ohPwQgWVIJGR6v8UkuarHEBbyXMF8EFIEAeQAnIdDyDe83JsXiVGGXBcE48cDQAZDD5yer18jVPOw
+

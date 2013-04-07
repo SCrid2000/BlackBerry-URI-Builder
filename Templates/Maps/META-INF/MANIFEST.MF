@@ -1,0 +1,31 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: SCrApps.org
+
+Package-Type: application
+Package-Author: SCrApps
+Package-Name: scrapps.maps
+Package-Version: 0.1.0.0
+Package-Architecture: armle-v7
+Package-Author-Certificate-Hash: UdEY9EEvFXDBudWMu7lHl0izehwGW9_rxUrcLnHkEWoT5fEgqqzwOZBmHclEwXFH6nx-46coNRdFlcaLBrKNWg
+Package-Author-Id: gYAAgGuzkHnA9Jvzs7yRPhqGvvw
+Package-Id: gYABgEdu4PBta8xXsaBWgQ0WLS4
+Package-Version-Id: gYACgPV8pMtVDSb64g-Tx2x3Nks
+
+Application-Name: Maps
+Application-Description: SCrApps Maps Launcher
+Application-Version: 0.1.0.0
+Application-Category: core.all
+Application-Requires-System: Tablet OS/1.0.0.0
+Application-Development-Mode: false
+Application-Id: gYADgHzM-5GDENCN-8VcMMGCusU
+Application-Version-Id: gYAEgLCEiXX0TYv1peIDD168lEw
+
+Entry-Point-Name: Maps
+Entry-Point: maps://
+Entry-Point-Type: Qnx/Uri
+Entry-Point-Icon: icon.png
+Entry-Point-Orientation: auto
+
+Archive-Asset-Name: icon.png
+Archive-Asset-SHA-512-Digest: KLBhDvcb4eoKHa_DcOkz5Hcs2bZgcigqP2tqDqimaXXF8fWm06PPnLLkEOpW4rccrjAKdVd_QrkC6ep3BI2f3Q
+

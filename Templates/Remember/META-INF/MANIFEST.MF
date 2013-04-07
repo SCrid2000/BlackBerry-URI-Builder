@@ -1,0 +1,31 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: SCrApps.org
+
+Package-Type: application
+Package-Author: SCrApps
+Package-Name: scrapps.remember
+Package-Version: 0.1.0.1
+Package-Architecture: armle-v7
+Package-Author-Certificate-Hash: UdEY9EEvFXDBudWMu7lHl0izehwGW9_rxUrcLnHkEWoT5fEgqqzwOZBmHclEwXFH6nx-46coNRdFlcaLBrKNWg
+Package-Author-Id: gYAAgGuzkHnA9Jvzs7yRPhqGvvw
+Package-Id: gYABgBn_1WSWbIIjlJAlcPJsvAM
+Package-Version-Id: gYACgA3rYFQuSN3ifYFEnSea9tM
+
+Application-Name: Remember
+Application-Description: SCrApps Remember Launcher
+Application-Version: 0.1.0.1
+Application-Category: core.all
+Application-Requires-System: Tablet OS/1.0.0.0
+Application-Development-Mode: false
+Application-Id: gYADgKVwVS3cw2hNQ8aiEqW7NKo
+Application-Version-Id: gYAEgPEvFfPm4AmHQPgvl871DZA
+
+Entry-Point-Name: Remember
+Entry-Point: remember://notebookentry
+Entry-Point-Type: Qnx/Uri
+Entry-Point-Icon: icon.png
+Entry-Point-Orientation: auto
+
+Archive-Asset-Name: icon.png
+Archive-Asset-SHA-512-Digest: aZNei_hU-YeJEVngtg_f7VHc-egFtj-MD4Vtwi8CbNtKsQNVb2srWdaIzQvha-nsHLyMsSPoPNlF0utxsseKfg
+

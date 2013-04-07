@@ -1,0 +1,31 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: SCrApps.org
+
+Package-Type: application
+Package-Author: SCrApps
+Package-Name: scrapps.filemanager
+Package-Version: 0.1.0.0
+Package-Architecture: armle-v7
+Package-Author-Certificate-Hash: UdEY9EEvFXDBudWMu7lHl0izehwGW9_rxUrcLnHkEWoT5fEgqqzwOZBmHclEwXFH6nx-46coNRdFlcaLBrKNWg
+Package-Author-Id: gYAAgGuzkHnA9Jvzs7yRPhqGvvw
+Package-Id: gYABgGKuIzbVOpIq896KMhtgdX0
+Package-Version-Id: gYACgIyNgnrP-1wYlch9IfPocL4
+
+Application-Name: File Manager
+Application-Description: SCrApps File Manager Launcher
+Application-Version: 0.1.0.0
+Application-Category: core.all
+Application-Requires-System: Tablet OS/1.0.0.0
+Application-Development-Mode: false
+Application-Id: gYADgPFPe-qbCxJGzdQLmEjbrE4
+Application-Version-Id: gYAEgJyO9PzMlUvXuSyw1mqJh0o
+
+Entry-Point-Name: File Manager
+Entry-Point: bbfiles://
+Entry-Point-Type: Qnx/Uri
+Entry-Point-Icon: icon.png
+Entry-Point-Orientation: auto
+
+Archive-Asset-Name: icon.png
+Archive-Asset-SHA-512-Digest: 6U5uQ3r_lDAlEp3WEE62GThKE1WDW068PycYWgbGaQ4HYC8MzjSCbAwAor1LvZJwy98PVaNiDFaPIu3KMEhcsQ
+

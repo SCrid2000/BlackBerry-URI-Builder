@@ -1,0 +1,31 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: SCrApps.org
+
+Package-Type: application
+Package-Author: SCrApps
+Package-Name: scrapps.setup
+Package-Version: 0.1.0.1
+Package-Architecture: armle-v7
+Package-Author-Certificate-Hash: UdEY9EEvFXDBudWMu7lHl0izehwGW9_rxUrcLnHkEWoT5fEgqqzwOZBmHclEwXFH6nx-46coNRdFlcaLBrKNWg
+Package-Author-Id: gYAAgGuzkHnA9Jvzs7yRPhqGvvw
+Package-Id: gYABgFTst8pu3q6XrSg-9mLVN78
+Package-Version-Id: gYACgKonErHZUMnXJrT1e_70aNU
+
+Application-Name: Setup
+Application-Description: SCrApps Setup Launcher
+Application-Version: 0.1.0.1
+Application-Category: core.all
+Application-Requires-System: Tablet OS/1.0.0.0
+Application-Development-Mode: false
+Application-Id: gYADgM0FyMG1akAYCugDhMHXKGI
+Application-Version-Id: gYAEgIElfRJXYpnTOGXmgrKs7zo
+
+Entry-Point-Name: Setup
+Entry-Point: setup://
+Entry-Point-Type: Qnx/Uri
+Entry-Point-Icon: icon.png
+Entry-Point-Orientation: auto
+
+Archive-Asset-Name: icon.png
+Archive-Asset-SHA-512-Digest: hcCYv4MGuQ6mj5xmuwRO5cwDt_1RqhdnJFce6zJHgSq-9IF6ykY2Nqww0PjbLJjN5Mx80lsPG0-9i-bf2wK2SQ
+

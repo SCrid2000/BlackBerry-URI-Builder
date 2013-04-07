@@ -1,0 +1,31 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: SCrApps.org
+
+Package-Type: application
+Package-Author: SCrApps
+Package-Name: scrapps.camera
+Package-Version: 0.1.0.0
+Package-Architecture: armle-v7
+Package-Author-Certificate-Hash: UdEY9EEvFXDBudWMu7lHl0izehwGW9_rxUrcLnHkEWoT5fEgqqzwOZBmHclEwXFH6nx-46coNRdFlcaLBrKNWg
+Package-Author-Id: gYAAgGuzkHnA9Jvzs7yRPhqGvvw
+Package-Id: gYABgFzigUrM7kRHnSO6c15OIrc
+Package-Version-Id: gYACgIgpLUdRusZWy-ANkyeVuds
+
+Application-Name: Camera
+Application-Description: SCrApps Camera Launcher
+Application-Version: 0.1.0.0
+Application-Category: core.all
+Application-Requires-System: Tablet OS/1.0.0.0
+Application-Development-Mode: false
+Application-Id: gYADgNRVG_j7sGYNj3LaDZqv11Q
+Application-Version-Id: gYAEgGgB3sMoNr-aeGUT_W2CJvQ
+
+Entry-Point-Name: Camera
+Entry-Point: camera://
+Entry-Point-Type: Qnx/Uri
+Entry-Point-Icon: icon.png
+Entry-Point-Orientation: auto
+
+Archive-Asset-Name: icon.png
+Archive-Asset-SHA-512-Digest: RYAmkF1hRrxJLtpOxGIISQ7wnuSD8I7NeiSL4hCuc7XERS1xx3i-KLNPTLx7whXRyj121RDTxvOFPYODC1B1dg
+

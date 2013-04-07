@@ -1,0 +1,31 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: SCrApps.org
+
+Package-Type: application
+Package-Author: SCrApps
+Package-Name: scrapps.music
+Package-Version: 0.1.0.0
+Package-Architecture: armle-v7
+Package-Author-Certificate-Hash: UdEY9EEvFXDBudWMu7lHl0izehwGW9_rxUrcLnHkEWoT5fEgqqzwOZBmHclEwXFH6nx-46coNRdFlcaLBrKNWg
+Package-Author-Id: gYAAgGuzkHnA9Jvzs7yRPhqGvvw
+Package-Id: gYABgMopOgnOIszKX1mFVlaGPQI
+Package-Version-Id: gYACgEdEZgnE1nGxUvIwAr9pl6Q
+
+Application-Name: Music
+Application-Description: SCrApps Music Launcher
+Application-Version: 0.1.0.0
+Application-Category: core.all
+Application-Requires-System: Tablet OS/1.0.0.0
+Application-Development-Mode: false
+Application-Id: gYADgEFF_zwHxV4MaPaMXyURFIM
+Application-Version-Id: gYAEgGzvhrK6MT2u5fWuTpmUvg0
+
+Entry-Point-Name: Music
+Entry-Point: music://
+Entry-Point-Type: Qnx/Uri
+Entry-Point-Icon: icon.png
+Entry-Point-Orientation: auto
+
+Archive-Asset-Name: icon.png
+Archive-Asset-SHA-512-Digest: AM8fMizZ9UZF0DqgBuaLBnL-hM-ndcKFkvftROyLZRyumUeeKor0aUkDmLl-10NcbnoEYxH8ZuW2JZ1hHrHbGA
+

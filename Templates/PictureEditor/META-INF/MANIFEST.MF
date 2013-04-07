@@ -1,0 +1,31 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: SCrApps.org
+
+Package-Type: application
+Package-Author: SCrApps
+Package-Name: scrapps.pictureeditor
+Package-Version: 0.1.0.0
+Package-Architecture: armle-v7
+Package-Author-Certificate-Hash: UdEY9EEvFXDBudWMu7lHl0izehwGW9_rxUrcLnHkEWoT5fEgqqzwOZBmHclEwXFH6nx-46coNRdFlcaLBrKNWg
+Package-Author-Id: gYAAgGuzkHnA9Jvzs7yRPhqGvvw
+Package-Id: gYABgJZQiEbfNtpj7XaCtHi_rt8
+Package-Version-Id: gYACgMB4kgFYZu3BuIlRaEgZns0
+
+Application-Name: Picture Editor
+Application-Description: SCrApps Picture Editor Launcher
+Application-Version: 0.1.0.0
+Application-Category: core.all
+Application-Requires-System: Tablet OS/1.0.0.0
+Application-Development-Mode: false
+Application-Id: gYADgOa30QXVfckeeYXtHRAO8Mo
+Application-Version-Id: gYAEgM-uFJcjIfKPr8XteSrIXtQ
+
+Entry-Point-Name: Picture Editor
+Entry-Point: photoeditor://
+Entry-Point-Type: Qnx/Uri
+Entry-Point-Icon: icon.png
+Entry-Point-Orientation: auto
+
+Archive-Asset-Name: icon.png
+Archive-Asset-SHA-512-Digest: jY6N-HHJ4QAA1NeKlawj8xCNScyusWQ3_tStKFXGBVk5WtWl-Hd2F3OBvzTghXJVli8xMz9AFc4qae7M8t72Mw
+

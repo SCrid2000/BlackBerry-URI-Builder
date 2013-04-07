@@ -1,0 +1,31 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: SCrApps.org
+
+Package-Type: application
+Package-Author: SCrApps
+Package-Name: scrapps.settings
+Package-Version: 0.1.0.0
+Package-Architecture: armle-v7
+Package-Author-Certificate-Hash: UdEY9EEvFXDBudWMu7lHl0izehwGW9_rxUrcLnHkEWoT5fEgqqzwOZBmHclEwXFH6nx-46coNRdFlcaLBrKNWg
+Package-Author-Id: gYAAgGuzkHnA9Jvzs7yRPhqGvvw
+Package-Id: gYABgK5FukWeuebjWpZDhSlsZmQ
+Package-Version-Id: gYACgFweuWkvR94cfY-bUlfx84I
+
+Application-Name: Settings
+Application-Description: SCrApps Settings Launcher
+Application-Version: 0.1.0.0
+Application-Category: core.all
+Application-Requires-System: Tablet OS/1.0.0.0
+Application-Development-Mode: false
+Application-Id: gYADgIRIwiPivRS8ddoWiTiNWgw
+Application-Version-Id: gYAEgNJsDQB2UhbcT7FQKI0QEP8
+
+Entry-Point-Name: Settings
+Entry-Point: settings://
+Entry-Point-Type: Qnx/Uri
+Entry-Point-Icon: icon.png
+Entry-Point-Orientation: auto
+
+Archive-Asset-Name: icon.png
+Archive-Asset-SHA-512-Digest: NmVQ3fNhltnlAHJ5oiGOM6K4LlG0C5PKKIo6sgrkxZrc1Q3QRz0C6ZPB_KnwohJ-F22JmwY8NVI-JF6hFpxADA
+

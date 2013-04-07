@@ -1,0 +1,31 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: SCrApps.org
+
+Package-Type: application
+Package-Author: SCrApps
+Package-Name: scrapps.textmessages
+Package-Version: 0.1.0.0
+Package-Architecture: armle-v7
+Package-Author-Certificate-Hash: UdEY9EEvFXDBudWMu7lHl0izehwGW9_rxUrcLnHkEWoT5fEgqqzwOZBmHclEwXFH6nx-46coNRdFlcaLBrKNWg
+Package-Author-Id: gYAAgGuzkHnA9Jvzs7yRPhqGvvw
+Package-Id: gYABgPj3F3j_FI_-zp26dt6LrqI
+Package-Version-Id: gYACgM8XIt4QprfHwpiFdInG46c
+
+Application-Name: Text Messages
+Application-Description: SCrApps Text Messages Launcher
+Application-Version: 0.1.0.0
+Application-Category: core.all
+Application-Requires-System: Tablet OS/1.0.0.0
+Application-Development-Mode: false
+Application-Id: gYADgJ8aaGIzHqiLsRbN2TwwGAk
+Application-Version-Id: gYAEgAucvnM6rzuORphv-H_Y4f8
+
+Entry-Point-Name: Text Messages
+Entry-Point: pim:application/vnd.blackberry.hub:23
+Entry-Point-Type: Qnx/Uri
+Entry-Point-Icon: icon.png
+Entry-Point-Orientation: auto
+
+Archive-Asset-Name: icon.png
+Archive-Asset-SHA-512-Digest: -ELsdT2u1Pe1W0jxpezb-KGkv3SeKCVFwLHAjmTh8FNdRI_1dG63RhOi_pRK1BiKKq8-2N-dR3KYpfwfMV4afQ
+

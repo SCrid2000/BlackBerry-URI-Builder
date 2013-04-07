@@ -1,0 +1,31 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: SCrApps.org
+
+Package-Type: application
+Package-Author: SCrApps
+Package-Name: scrapps.escreen
+Package-Version: 0.1.0.1
+Package-Architecture: armle-v7
+Package-Author-Certificate-Hash: UdEY9EEvFXDBudWMu7lHl0izehwGW9_rxUrcLnHkEWoT5fEgqqzwOZBmHclEwXFH6nx-46coNRdFlcaLBrKNWg
+Package-Author-Id: gYAAgGuzkHnA9Jvzs7yRPhqGvvw
+Package-Id: gYABgI_WAWHiWQAgz6rz3AqtiNs
+Package-Version-Id: gYACgLC3Bo3UKXTzE4saMJIDUCM
+
+Application-Name: escreen
+Application-Description: SCrApps escreen Launcher
+Application-Version: 0.1.0.1
+Application-Category: core.all
+Application-Requires-System: Tablet OS/1.0.0.0
+Application-Development-Mode: false
+Application-Id: gYADgLOX-znOVdAFlj9WYrFWkDo
+Application-Version-Id: gYAEgEsAAF5upeymx5tZRxt0o5w
+
+Entry-Point-Name: escreen
+Entry-Point: escreen://
+Entry-Point-Type: Qnx/Uri
+Entry-Point-Icon: icon.png
+Entry-Point-Orientation: auto
+
+Archive-Asset-Name: icon.png
+Archive-Asset-SHA-512-Digest: 0pXw1oopbfcjXe3yvb2LCLUEfb7qvzJi_jNPSA5Ul3m3N8TkmW6ljRVCn82YtptNIM0Wae7u5j9L5hLeukauVA
+

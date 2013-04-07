@@ -1,0 +1,31 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: SCrApps.org
+
+Package-Type: application
+Package-Author: SCrApps
+Package-Name: scrapps.osbblauncher
+Package-Version: 0.1.0.0
+Package-Architecture: armle-v7
+Package-Author-Certificate-Hash: UdEY9EEvFXDBudWMu7lHl0izehwGW9_rxUrcLnHkEWoT5fEgqqzwOZBmHclEwXFH6nx-46coNRdFlcaLBrKNWg
+Package-Author-Id: gYAAgGuzkHnA9Jvzs7yRPhqGvvw
+Package-Id: gYABgK1sXIRphgLosA3nHXbEChs
+Package-Version-Id: gYACgINCx3zj4Jl5tE_fQeMK8Fg
+
+Application-Name: OSBB
+Application-Description: SCrApps OpenSourceBB Launcher
+Application-Version: 0.1.0.0
+Application-Category: core.all
+Application-Requires-System: Tablet OS/1.0.0.0
+Application-Development-Mode: false
+Application-Id: gYADgJgl0KeicATN3yQs-IucEXI
+Application-Version-Id: gYAEgIIONGnU74g7Y_BdIpCXG_o
+
+Entry-Point-Name: OSBB
+Entry-Point: http://www.opensourcebb.com
+Entry-Point-Type: Qnx/Uri
+Entry-Point-Icon: icon.png
+Entry-Point-Orientation: auto
+
+Archive-Asset-Name: icon.png
+Archive-Asset-SHA-512-Digest: uJ8GqYj0XADmYVVCKwSeJ70owq0dNzkCbEiKVJo72Fpt5aJZAuZSXyPlDjR85a4TyUnLo8QCH1B48GftiGgOfw
+
